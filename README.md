@@ -1,24 +1,4 @@
-# gitbook-starter-kit
-
-[GitBook](https://www.gitbook.com/)のスターターキット。
-
-以下のスライドでこの構成がどのように使われているかを解説しています。
-
-- [Markdownで書く電子書籍開発環境](http://azu.github.io/slide/niku_sushi/ebook_development.html "Markdownで書く電子書籍開発環境")
-
-実際にこの構成を利用しているプロジェクトとして以下のものがあります。
-
-- [azu/JavaScript-Plugin-Architecture](https://github.com/azu/JavaScript-Plugin-Architecture "azu/JavaScript-Plugin-Architecture")
-
-## インストール
-
-GitBookを使った書籍を以下のようにするだけで書き始めることができます。
-
-```
-git clone https://github.com/azu/gitbook-starter-kit.git your-book-name
-cd your-book-name
-npm install
-```
+# failure-of-cli-tool-design
 
 ## 使い方
 
