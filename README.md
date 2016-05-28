@@ -69,4 +69,7 @@ npm testで以下のテストが実行されます。
 
 ## License
 
-MIT
+© sanemat
+
+- Code: MIT
+- Text: [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
