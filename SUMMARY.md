@@ -1,2 +1,1 @@
-- [はじめに](ja/introduction.md)
-- [Hello World](ja/hello-world.md)
+- [tachikoma v1 not gem](ja/tachikoma-v1-not-gem/README.md)
